@@ -1,0 +1,222 @@
+﻿l_russian:
+ # Custom Resolutions
+
+ resolution_category_healthcare:0 "Галактическая Организация Здравоохранения"
+ 
+ resolution_healthcare_repeal_6:0 "§RАннулировать резолюцию $resolution_healthcare_6$§!"
+ resolution_healthcare_repeal_6_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_healthcare_6$§!"
+ 
+ resolution_healthcare_6:0 "Создать Галактическую организацию здравоохранения"
+ resolution_healthcare_6_desc:0 "Создание организации, которая отслеживает новые болезни и помогает менее удачливым империям, принесет пользу всем."
+
+ resolution_healthcare_repeal_5:0 "§RАннулировать резолюцию $resolution_healthcare_5$§!"
+ resolution_healthcare_repeal_5_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_5_effect_success:0 "Аннулирует резолюцию §Y$resolution_healthcare_5$§!"
+
+ resolution_healthcare_5:0 "Медицинские клоны"
+ resolution_healthcare_5_desc:0 "Мы можем использовать технологию клонирования для создания идеально подходящих органов для каждого реципиента."
+
+ resolution_healthcare_repeal_4:0 "§RАннулировать резолюцию $resolution_healthcare_4$§!"
+ resolution_healthcare_repeal_4_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_4_effect_success:0 "Аннулирует резолюцию §Y$resolution_healthcare_4$§!"
+ 
+ resolution_healthcare_4:0 "Использовать технологию Гипоспрей"
+ resolution_healthcare_4_desc:0 "Новая технология Гипоспрей, хотя и более дорогая, чем традиционные иглы, может использоваться для введения инъекций и вакцин через одежду без риска перекрестного заражения."
+
+ resolution_healthcare_repeal_3:0 "§RАннулировать резолюцию $resolution_healthcare_3$§!"
+ resolution_healthcare_repeal_3_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_3_effect_success:0 "Аннулирует резолюцию §Y$resolution_healthcare_3$§!"
+ 
+ resolution_healthcare_3:0 "Обязательное медицинское страхование"
+ resolution_healthcare_3_desc:0 "Каждый должен иметь право на лечение, поэтому у каждого должна быть страховка."
+
+ resolution_healthcare_repeal_2:0 "§RАннулировать резолюцию $resolution_healthcare_2$§!"
+ resolution_healthcare_repeal_2_desc:0 "$resolution_healthcare_repeal_1_desc$"
+ resolution_healthcare_repeal_2_effect_success:0 "Аннулирует резолюцию §Y$resolution_healthcare_2$§!"
+ 
+ resolution_healthcare_2:0 "Увеличить медицинские льготы для сотрудников"
+ resolution_healthcare_2_desc:0 "Если мы предоставим налоговые льготы работодателям, которые заботятся о своих сотрудниках, мы получим прибыль в долгосрочной перспективе."
+
+ resolution_healthcare_repeal_1:0 "§RАннулировать резолюцию $resolution_healthcare_1$§!"
+ resolution_healthcare_repeal_1_desc:0 "Каждый должен заботиться о себе. Отрасль здравоохранения должна оставаться прибыльным частным сектором."
+ resolution_healthcare_repeal_1_effect_success:0 "Аннулирует резолюцию §Y$resolution_healthcare_1$§!"
+
+ resolution_healthcare_1:0 "Увеличить расходы на здравоохранение"
+ resolution_healthcare_1_desc:0 "Расходование части нашего состояния на здравоохранение для наших граждан пойдет на пользу экономике и увеличит наше общее благосостояние."
+
+ resolution_category_mischief:0 "Злой умысел"
+ 
+ resolution_mischief_repeal_6:0 "§RАннулировать резолюцию $resolution_mischief_6$§!"
+ resolution_mischief_repeal_6_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_mischief_6$§!"
+ 
+ resolution_mischief_6:0 "Интегрировать преступные синдикаты"
+ resolution_mischief_6_desc:0 "Если вы не можете победить их, присоединяйтесь к ним. Мы заключим сделку с самыми влиятельными семьями, чтобы интегрировать их в правительство."
+
+ resolution_mischief_repeal_5:0 "§RАннулировать резолюцию$resolution_mischief_5$§!"
+ resolution_mischief_repeal_5_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_5_effect_success:0 "Аннулирует резолюцию §Y$resolution_mischief_5$§!"
+
+ resolution_mischief_5:0 "Провести переговоры с криминальными боссами"
+ resolution_mischief_5_desc:0 "Мы можем править своей империей, но на отдельных планетах де-факто правят Корпорации, Полководцы или Криминальные Синдикаты. Чтобы экономика не рухнула, мы должны заключить сделку."
+
+ resolution_mischief_repeal_4:0 "§RАннулировать резолюцию $resolution_mischief_4$§!"
+ resolution_mischief_repeal_4_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_4_effect_success:0 "Аннулирует резолюцию §Y$resolution_mischief_4$§!"
+ 
+ resolution_mischief_4:0 "Разжигание розни"
+ resolution_mischief_4_desc:0 "Неизвестные причины привели к резкому росту преступности и убийств. Население вооружено и опасно. Единственный способ остановить революцию - это настроить слои населения друг против друга."
+
+ resolution_mischief_repeal_3:0 "§RАннулировать резолюцию $resolution_mischief_3$§!"
+ resolution_mischief_repeal_3_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_3_effect_success:0 "Аннулирует резолюцию §Y$resolution_mischief_3$§!"
+ 
+ resolution_mischief_3:0 "Снизить расходы на образование"
+ resolution_mischief_3_desc:0 "Все чаще большая часть нашего населения недовольна правительством. Единственный способ сохранить свои голоса - это оставить их необразованными, даже если некоторые из них могут превратиться в преступников из-за отсутствия возможностей трудоустройства."
+
+ resolution_mischief_repeal_2:0 "§RАннулировать резолюцию $resolution_mischief_2$§!"
+ resolution_mischief_repeal_2_desc:0 "$resolution_mischief_repeal_1_desc$"
+ resolution_mischief_repeal_2_effect_success:0 "Аннулирует резолюцию §Y$resolution_mischief_2$§!"
+ 
+ resolution_mischief_2:0 "Увеличить экономическое неравенство"
+ resolution_mischief_2_desc:0 "В соответствии с нашей экономической теорией, увеличивая неравенство в благосостоянии и финансируя богатых, мы помогаем всем. Конечно, бедные могут так не думать."
+
+ resolution_mischief_repeal_1:0 "§RАннулировать резолюцию $resolution_mischief_1$§!"
+ resolution_mischief_repeal_1_desc:0 "Никакие деньги не оправдывают рост преступности и бедности."
+ resolution_mischief_repeal_1_effect_success:0 "Аннулирует резолюцию §Y$resolution_mischief_1$§!"
+
+ resolution_mischief_1:0 "Изменение благосостояния"
+ resolution_mischief_1_desc:0 "Перенаправление дополнительных ресурсов в пользу наших корпораций и лидеров должно стимулировать экономику."
+
+ resolution_category_discovery_archeology:0 "Любопытство без границ"
+ 
+ resolution_discovery_archeology_repeal_6:0 "§RАннулировать резолюцию $resolution_discovery_archeology_6$§!"
+ resolution_discovery_archeology_repeal_6_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_discovery_archeology_6$§!"
+ 
+ resolution_discovery_archeology_6:0 "Инициатива Атлантиды"
+ resolution_discovery_archeology_6_desc:0 "Исследуя неизведанные территории, мы не будем рассматривать претензии других империй."
+
+ resolution_discovery_archeology_repeal_5:0 "§RАннулировать резолюцию$resolution_discovery_archeology_5$§!"
+ resolution_discovery_archeology_repeal_5_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_5_effect_success:0 "Аннулирует резолюцию §Y$resolution_discovery_archeology_5$§!"
+
+ resolution_discovery_archeology_5:0 "Академия Галактической Археологии"
+ resolution_discovery_archeology_5_desc:0 "Хорошо обученные исследователи достигнут значительно лучших результатов."
+
+ resolution_discovery_archeology_repeal_4:0 "§RАннулировать резолюцию $resolution_discovery_archeology_4$§!"
+ resolution_discovery_archeology_repeal_4_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_4_effect_success:0 "Аннулирует резолюцию §Y$resolution_discovery_archeology_4$§!"
+ 
+ resolution_discovery_archeology_4:0 "Общая база данных карт"
+ resolution_discovery_archeology_4_desc:0 "Если мы поделимся своими знаниями о галактике, выиграют все."
+
+ resolution_discovery_archeology_repeal_3:0 "§RАннулировать резолюцию $resolution_discovery_archeology_3$§!"
+ resolution_discovery_archeology_repeal_3_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_3_effect_success:0 "Аннулирует резолюцию §Y$resolution_discovery_archeology_3$§!"
+ 
+ resolution_discovery_archeology_3:0 "Усовершенствованные датчики аномалий"
+ resolution_discovery_archeology_3_desc:0 "Нам нужно исследовать странные явления, чтобы извлечь из них уроки."
+
+ resolution_discovery_archeology_repeal_2:0 "§RАннулировать резолюцию $resolution_discovery_archeology_2$§!"
+ resolution_discovery_archeology_repeal_2_desc:0 "$resolution_discovery_archeology_repeal_1_desc$"
+ resolution_discovery_archeology_repeal_2_effect_success:0 "Аннулирует резолюцию §Y$resolution_discovery_archeology_2$§!"
+ 
+ resolution_discovery_archeology_2:0 "Гранты на раскопки"
+ resolution_discovery_archeology_2_desc:0 "Мы должны извлекать уроки из истории, если хотим пережить опасности галактики."
+
+ resolution_discovery_archeology_repeal_1:0 "§RАннулировать резолюцию $resolution_discovery_archeology_1$§!"
+ resolution_discovery_archeology_repeal_1_desc:0 "Изучение галактики - важное мероприятие, но территорию других империй следует уважать и избегать."
+ resolution_discovery_archeology_repeal_1_effect_success:0 "Аннулирует резолюцию §Y$resolution_discovery_archeology_1$§!"
+ 
+ resolution_discovery_archeology_1:0 "Картографические гранты"
+ resolution_discovery_archeology_1_desc:0 "Изучение галактики привело к созданию Галактического сообщества, которое имеет огромное значение для процветания и технического прогресса его членов."
+
+ resolution_ecology_repeal_6:0 "§RАннулировать резолюцию $resolution_ecology_6$§!"
+ resolution_ecology_repeal_6_desc:0 "$resolution_ecology_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_ecology_6$§!"
+ 
+ resolution_ecology_6:0 "Экологическая мораль"
+ resolution_ecology_6_desc:0 "Защищая окружающую среду, мы защищаем наш вид и наших потомков. Защита наших миров - приоритет номер один."
+ 
+ resolution_galacticstudies_repeal_6:0 "§RАннулировать резолюцию $resolution_galacticstudies_6$§!"
+ resolution_galacticstudies_repeal_6_desc:0 "$resolution_galacticstudies_repeal_1_desc$"
+ resolution_galacticstudies_repeal_1_effect_success:0 "Аннулирует резолюцию §Y$resolution_galacticstudies_6$§!"
+ 
+ resolution_galacticstudies_6:0 "Неограниченная свобода исследований"
+ resolution_galacticstudies_6_desc:0 "В поисках новых идей нашим ученым не нужно беспокоиться о мнениях других империй или правах человека."
+ 
+ resolution_industry_repeal_6:0 "§RАннулировать резолюцию $resolution_industry_6$§!"
+ resolution_industry_repeal_6_desc:0 "$resolution_industry_repeal_1_desc$"
+ resolution_ecology_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_industry_6$§!"
+ 
+ resolution_industry_6:0 "Чрезмерная Государственная эксплуатация"
+ resolution_industry_6_desc:0 "Если мы хотим победить наших конкурентов, мы должны максимально эффективно использовать и обрабатывать имеющиеся ресурсы."
+ 
+ resolution_commerce_repeal_6:0 "§RАннулировать резолюцию $resolution_commerce_6$§!"
+ resolution_commerce_repeal_6_desc:0 "$resolution_commerce_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_commerce_6$§!"
+ 
+ resolution_commerce_6:0 "Неолиберальная реорганизация"
+ resolution_commerce_6_desc:0 "Мы не должны допустить, чтобы нашу экономику сдерживали меры защиты слабых и неэффективных секторов экономики."
+ 
+ resolution_rulesofwar_repeal_6:0 "§RАннулировать резолюцию $resolution_rulesofwar_6$§!"
+ resolution_rulesofwar_repeal_6_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
+ resolution_commerce_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_rulesofwar_6$§!"
+ 
+ resolution_rulesofwar_6:0 "Абсолютное разоружение"
+ resolution_rulesofwar_6_desc:0 "Необходимо принять решительные меры, чтобы убедить всех членов галактического сообщества разоружиться." 
+ 
+ resolution_mutualdefense_repeal_6:0 "§RАннулировать резолюцию $resolution_mutualdefense_6$§!"
+ resolution_mutualdefense_repeal_6_desc:0 "$resolution_mutualdefense_repeal_1_desc$"
+ resolution_mutualdefense_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_mutualdefense_6$§!"
+ 
+ resolution_mutualdefense_6:0 "Беллицизм"
+ resolution_mutualdefense_6_desc:0 "Каждый день наши граждане подверженны новым опасностям - почти непобедимые Левиафаны, империи отвратительных роботов-убийц и кровожадных пиратов. С такими врагами не договоришься!" 
+ 
+ resolution_greatergood_repeal_6:0 "§RАннулировать резолюцию $resolution_greatergood_6$§!"
+ resolution_greatergood_repeal_6_desc:0 "$resolution_greatergood_repeal_1_desc$"
+ resolution_greatergood_repeal_6_effect_success:0 "Аннулирует резолюцию §Y$resolution_greatergood_6$§!"
+ 
+ resolution_greatergood_6:0 "Утопический социализм"
+ resolution_greatergood_6_desc:0 "Все граждане галактического сообщества равны и имеют право на богатства, что приносит их труд." 
+ 
+ # Custom Sanctions
+ 
+ resolution_sanctions_tech_4:0 "Абсолютные исследовательские санкции"
+ resolution_sanctions_tech_4_desc:0 "Империи, не соблюдающие галактические законы, должны быть лишены доступа к потенциально опасным технологиям."
+ 
+ resolution_sanctions_tech_repeal_4:0 "§RАннулировать резолюцию $resolution_sanctions_tech_4$§!"
+ resolution_sanctions_tech_repeal_4_desc:0 "$resolution_sanctions_tech_repeal_1_desc$"
+ resolution_sanctions_tech_repeal_4_effect_success:0 "Аннулирует резолюцию §Y$resolution_sanctions_tech_4$§!"
+ 
+ 
+ resolution_sanctions_economic_4:0 "Абсолютные экономические санкции"
+ resolution_sanctions_economic_4_desc:0 "Мы должны принять серьезные меры, чтобы гарантировать экономическое процветание только тем, кто соблюдает галактические законы."
+ 
+ resolution_sanctions_economic_repeal_4:0 "§RАннулировать резолюцию $resolution_sanctions_economic_4$§!"
+ resolution_sanctions_economic_repeal_4_desc:0 "$resolution_sanctions_economic_repeal_1_desc$"
+ resolution_sanctions_economic_repeal_4_effect_success:0 "Аннулирует резолюцию §Y$resolution_sanctions_economic_4$§!"
+ 
+ 
+ resolution_sanctions_military_4:0 "Абсолютные военные санкции"
+ resolution_sanctions_military_4_desc:0 "Те, кто не соблюдают галактические законы, представляя угрозу миру, никогда не должны иметь выдающийся флот."
+ 
+ resolution_sanctions_military_repeal_4:0 "§RАннулировать резолюцию $resolution_sanctions_military_4$§!"
+ resolution_sanctions_military_repeal_4_desc:0 "$resolution_sanctions_military_repeal_1_desc$"
+ resolution_sanctions_military_repeal_4_effect_success:0 "Аннулирует резолюцию §Y$resolution_sanctions_military_4$§!"
+
+ 
+ resolution_sanctions_administrative_4:0 "Абсолютные административные санкции"
+ resolution_sanctions_administrative_4_desc:0 "Мы не сотрудничаем с империями, которые не соблюдают галактические законы."
+ 
+ resolution_sanctions_administrative_repeal_4:0 "§RАннулировать резолюцию $resolution_sanctions_administrative_4$§!"
+ resolution_sanctions_administrative_repeal_4_desc:0 "$resolution_sanctions_administrative_repeal_1_desc$"
+ resolution_sanctions_administrative_repeal_4_effect_success:0 "Аннулирует резолюцию §Y$resolution_sanctions_administrative_4$§!"
+
+ mod_job_medical_professional_add:0 "Медицинских работников на планету"
+ job_medical_professional:0 "Медицинский работник"
+
+ civic_pirate_haven:0 "Пиратский рай"
+ civic_pirate_haven_effects:0 "Преступники производят £unity£ единство, £job_soldier£ армии планетарной обороны и вместимость флота. Комбинирование этой гражданской модели с §HВарвары-расхитители§! увеличивает производство £unity£ единства преступниками. Комбинирование с моделью §HПадальщики§! позволяет преступникам производить небольшое количество исследований."
